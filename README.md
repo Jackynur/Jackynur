@@ -5,11 +5,9 @@ Jangan ragu untuk mengubah tautan, teks, dan gambar sesuai keinginan Anda.
 Anda perlu memperbarui tautan untuk sosial media dan memastikan nama pengguna (username) untuk statistik GitHub sudah benar.
 -->
 
-<div align="center">
 
-Hi there, I'm Jaki Nurhadiyansah 
-Cuma seorang mahasiswa Teknik Informatika dari Indonesia yang lagi semangat-semangatnya ngoding!
-<br>
+![Header](img\github-header-image.png)
+
 ---
 <p align="center">
 <a href="https://www.linkedin.com/in/jaki-nurhadiyansah/" target="_blank">
