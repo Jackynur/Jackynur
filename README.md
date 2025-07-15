@@ -45,6 +45,6 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=253pi8s8ae2jua58hwzcabi70)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=253pi8s8ae2jua58hwzcabi70&unique={true|1|on|yes})
 
 ###
