@@ -48,34 +48,30 @@ Saya mahasiswa Teknik Informatika yang suka banget sama dunia teknologi. Rasanya
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3"/>
 <img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript"/>
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="15" />
 <br><br>
 <!-- Baris 2: DevOps & Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux"/>
 <img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker"/>
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git"/>
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VS Code"/>
-</p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
 ---
 
 📊 Statistik GitHub Saya
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJackynur%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Statistik GitHub Jaki" />
-<br>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJackynur%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue%26langs_count%3D8" alt="Bahasa Teratas Jaki" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jackynur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
+
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jackynur/Jackynur/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jackynur/Jackynur/output/pacman-contribution-graph.svg">
-<img alt="Grafik kontribusi pacman" src="https://raw.githubusercontent.com/Jackynur/Jackynur/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jackynur/Jackynur/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jackynur/Jackynur/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jackynur/Jackynur/output/pacman-contribution-graph.svg">
 </picture>
 </div>
 
