@@ -6,7 +6,7 @@ Anda perlu memperbarui tautan untuk sosial media dan memastikan nama pengguna (u
 -->
 
 
-![Header](img\github-header-image.png)
+![Header](img/github-header-image.png)
 
 ---
 <p align="center">
